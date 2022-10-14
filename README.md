@@ -4,14 +4,14 @@ This is a solution to the https://www.frontendmentor.io/challenges/qr-code-compo
 
 ## Table of contents
 
-- #overview
-  - #screenshot
-  - #links
-- #my-process
-  - #built-with
-  - #what-i-learned
-  - #continued-development
-- #author
+- overview
+  - screenshot
+  - links
+- my-process
+  - built-with
+  - what-i-learned
+  - continued-development
+- author
 
 ## Overview
 
