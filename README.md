@@ -11,7 +11,7 @@ This is a solution to the https://www.frontendmentor.io/challenges/qr-code-compo
   - built-with
   - what-i-learned
   - continued-development
-- author
+
 
 ## Overview
 
